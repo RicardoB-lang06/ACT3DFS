@@ -1,6 +1,8 @@
 API de gestión de pedidos.
 Documentación en postman: https://documenter.getpostman.com/view/51906899/2sBXc8pj1d
 
+Como comentario extra y consejo, hay que cuidar muy bien lo que se realiza en postman y de preferencia ver un tutorial antes de usarlo, cualquier detalle se puede tornar en un dolor de cabeza
+
 Este proyecto es un backend robusto construido con Node.js y Express, diseñado bajo los principios de POO. El objetivo principal es demostrar la correcta separación de responsabilidades y la implementación de reglas de negocio críticas en un entorno de pedidos.
 
 Tecnologías Utilizadas.
